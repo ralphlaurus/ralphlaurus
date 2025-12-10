@@ -1,5 +1,6 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Raphael Jairos 
-## Software Developer 
+# Hi there, I'm Raphael Jairos ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+
+## 🚀 Mobile & Full-Stack Web Developer
 I'm a passionate developer who enjoys building scalable, user-friendly, and high-performance applications. 
 I work across the full stack - from intuitive mobile interfaces to secure backend systems.  
 * 🌍  I'm based in Dar es Salaam, Tanzania
